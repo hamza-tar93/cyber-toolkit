@@ -32,14 +32,4 @@ SHA-256
 SHA-512
 
 A Case Study in Prompt Engineering
-This project serves as a practical example of building a complete web application using prompt engineering. The entire development process, from the initial concept to the final UI bug fixes, was achieved by giving clear, specific, and iterative instructions to an AI assistant (Google's Gemini).
-
-The process involved:
-
-Initial Scoping: Defining the core features and target audience (a toolkit for developers).
-
-Technology Stack Definition: Specifying a client-side-only application using HTML, CSS (Tailwind), and vanilla JavaScript, suitable for deployment on GitHub Pages.
-
-Iterative Development & Debugging: Providing direct feedback on the AI-generated code, including screenshots of UI bugs, to guide the AI toward a polished and fully functional final product.
-
-This demonstrates a key modern development workflow: using AI as a collaborative partner to rapidly prototype and build applications.
+This project serves as a practical example of building a complete web application using prompt engineering. The entire development process, from the initial concept to the final UI bug fixes, was achieved by giving clear, specific, and iterative instructions to an AI assistant (Claude).
